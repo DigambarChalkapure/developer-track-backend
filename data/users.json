@@ -1,0 +1,19 @@
+[
+    {
+        "id": "7fde6a22-f03a-40a1-9173-b697ba31b3c9",
+        "username": "digambar1421",
+        "email": "digambarchalkapure@gmail.com",
+        "hashed_password": "$2b$12$HPZj9dYxbI2f03tgId0kJ.cmDUDyr6qB13WIN2P5J.2GnvvAW.d7.",
+        "created_at": "2026-03-08T05:46:33.282843",
+        "progress": {
+            "14": {
+                "completed": false,
+                "last_updated": "2026-03-08T05:47:48.891244"
+            },
+            "1": {
+                "completed": false,
+                "last_updated": "2026-03-08T06:53:27.981031"
+            }
+        }
+    }
+]

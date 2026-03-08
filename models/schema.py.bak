@@ -1,0 +1,56 @@
+from sqlalchemy import Column, Integer, String, Boolean, Float, Text, ForeignKey
+from sqlalchemy.orm import relationship
+from db import Base
+
+class TopicSQL(Base):
+    __tablename__ = "topics"
+
+    id = Column(Integer, primary_key=True, index=True)
+    category = Column(String, index=True)
+    topic = Column(String, index=True)
+    subtopic = Column(String)
+    completed = Column(Boolean, default=False)
+    difficulty = Column(String, default="medium")
+    estimated_hours = Column(Integer, default=2)
+    notes = Column(Text, default="")
+    feynman_reflection = Column(Text, default="")
+    # We will store lists as JSON strings in the DB for simplicity across both SQLite and Postgres
+    subpoints = Column(Text, default="[]") 
+    interview_explanation = Column(Text, default="")
+    interview_questions = Column(Text, default="[]")
+    last_updated = Column(String, default="")
+    
+    study_logs = relationship("StudyLogSQL", back_populates="topic")
+    flashcards = relationship("FlashcardSQL", back_populates="topic")
+
+class StudyLogSQL(Base):
+    __tablename__ = "study_logs"
+
+    id = Column(Integer, primary_key=True, index=True)
+    topic_id = Column(Integer, ForeignKey("topics.id"))
+    hours = Column(Float)
+    date = Column(String) # YYYY-MM-DD
+    
+    topic = relationship("TopicSQL", back_populates="study_logs")
+
+class FlashcardSQL(Base):
+    __tablename__ = "flashcards"
+
+    id = Column(Integer, primary_key=True, index=True)
+    topic_id = Column(Integer, ForeignKey("topics.id"))
+    question = Column(String)
+    answer = Column(Text)
+    next_review = Column(String) # ISO format string
+    interval = Column(Integer, default=1)
+    ease_factor = Column(Float, default=2.5)
+    
+    topic = relationship("TopicSQL", back_populates="flashcards")
+
+class UserStatsSQL(Base):
+    __tablename__ = "user_stats"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    xp = Column(Integer, default=0)
+    # Store lists of completed IDs as JSON strings
+    completed_quests = Column(Text, default="[]")
+    unlocked_badges = Column(Text, default="[]")

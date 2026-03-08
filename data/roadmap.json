@@ -1,0 +1,3830 @@
+[
+    {
+        "id": 1,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "Data Types & Variables",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Data Types & Variables",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Data Types & Variables is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Data Types & Variables to a junior developer?",
+            "Describe a scenario where you successfully implemented Data Types & Variables in a project.",
+            "What are the trade-offs or alternatives to using Data Types & Variables?"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "Operators",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Operators",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Operators is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Operators to a junior developer?",
+            "Describe a scenario where you successfully implemented Operators in a project.",
+            "What are the trade-offs or alternatives to using Operators?"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "Control Flow Statements",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Control Flow Statements",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Control Flow Statements is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Control Flow Statements to a junior developer?",
+            "Describe a scenario where you successfully implemented Control Flow Statements in a project.",
+            "What are the trade-offs or alternatives to using Control Flow Statements?"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "Arrays",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Arrays",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Arrays is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Arrays to a junior developer?",
+            "Describe a scenario where you successfully implemented Arrays in a project.",
+            "What are the trade-offs or alternatives to using Arrays?"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "String Handling",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of String Handling",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, String Handling is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain String Handling to a junior developer?",
+            "Describe a scenario where you successfully implemented String Handling in a project.",
+            "What are the trade-offs or alternatives to using String Handling?"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "OOP - Classes & Objects",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of OOP - Classes & Objects",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, OOP - Classes & Objects is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain OOP - Classes & Objects to a junior developer?",
+            "Describe a scenario where you successfully implemented OOP - Classes & Objects in a project.",
+            "What are the trade-offs or alternatives to using OOP - Classes & Objects?"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "OOP - Inheritance",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of OOP - Inheritance",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, OOP - Inheritance is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain OOP - Inheritance to a junior developer?",
+            "Describe a scenario where you successfully implemented OOP - Inheritance in a project.",
+            "What are the trade-offs or alternatives to using OOP - Inheritance?"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "OOP - Polymorphism",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of OOP - Polymorphism",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, OOP - Polymorphism is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain OOP - Polymorphism to a junior developer?",
+            "Describe a scenario where you successfully implemented OOP - Polymorphism in a project.",
+            "What are the trade-offs or alternatives to using OOP - Polymorphism?"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "OOP - Encapsulation",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of OOP - Encapsulation",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, OOP - Encapsulation is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain OOP - Encapsulation to a junior developer?",
+            "Describe a scenario where you successfully implemented OOP - Encapsulation in a project.",
+            "What are the trade-offs or alternatives to using OOP - Encapsulation?"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "OOP - Abstraction",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of OOP - Abstraction",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, OOP - Abstraction is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain OOP - Abstraction to a junior developer?",
+            "Describe a scenario where you successfully implemented OOP - Abstraction in a project.",
+            "What are the trade-offs or alternatives to using OOP - Abstraction?"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "Interfaces",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Interfaces",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Interfaces is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Interfaces to a junior developer?",
+            "Describe a scenario where you successfully implemented Interfaces in a project.",
+            "What are the trade-offs or alternatives to using Interfaces?"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "Packages",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Packages",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Packages is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Packages to a junior developer?",
+            "Describe a scenario where you successfully implemented Packages in a project.",
+            "What are the trade-offs or alternatives to using Packages?"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "Exception Handling Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Exception Handling Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Exception Handling Basics is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Exception Handling Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented Exception Handling Basics in a project.",
+            "What are the trade-offs or alternatives to using Exception Handling Basics?"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Core Java",
+        "topic": "Core Java",
+        "subtopic": "Custom Exceptions",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Custom Exceptions",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Custom Exceptions is a key indicator of your practical knowledge in Core Java. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Custom Exceptions to a junior developer?",
+            "Describe a scenario where you successfully implemented Custom Exceptions in a project.",
+            "What are the trade-offs or alternatives to using Custom Exceptions?"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "Collection Framework Overview",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Collection Framework Overview",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Collection Framework Overview is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Collection Framework Overview to a junior developer?",
+            "Describe a scenario where you successfully implemented Collection Framework Overview in a project.",
+            "What are the trade-offs or alternatives to using Collection Framework Overview?"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "ArrayList",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of ArrayList",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, ArrayList is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain ArrayList to a junior developer?",
+            "Describe a scenario where you successfully implemented ArrayList in a project.",
+            "What are the trade-offs or alternatives to using ArrayList?"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "LinkedList",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of LinkedList",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, LinkedList is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain LinkedList to a junior developer?",
+            "Describe a scenario where you successfully implemented LinkedList in a project.",
+            "What are the trade-offs or alternatives to using LinkedList?"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "HashSet & TreeSet",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of HashSet & TreeSet",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, HashSet & TreeSet is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain HashSet & TreeSet to a junior developer?",
+            "Describe a scenario where you successfully implemented HashSet & TreeSet in a project.",
+            "What are the trade-offs or alternatives to using HashSet & TreeSet?"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "HashMap & TreeMap",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of HashMap & TreeMap",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, HashMap & TreeMap is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain HashMap & TreeMap to a junior developer?",
+            "Describe a scenario where you successfully implemented HashMap & TreeMap in a project.",
+            "What are the trade-offs or alternatives to using HashMap & TreeMap?"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "Iterator & ListIterator",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Iterator & ListIterator",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Iterator & ListIterator is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Iterator & ListIterator to a junior developer?",
+            "Describe a scenario where you successfully implemented Iterator & ListIterator in a project.",
+            "What are the trade-offs or alternatives to using Iterator & ListIterator?"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "Comparable & Comparator",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Comparable & Comparator",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Comparable & Comparator is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Comparable & Comparator to a junior developer?",
+            "Describe a scenario where you successfully implemented Comparable & Comparator in a project.",
+            "What are the trade-offs or alternatives to using Comparable & Comparator?"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "Collections Class Utilities",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Collections Class Utilities",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Collections Class Utilities is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Collections Class Utilities to a junior developer?",
+            "Describe a scenario where you successfully implemented Collections Class Utilities in a project.",
+            "What are the trade-offs or alternatives to using Collections Class Utilities?"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "Queue Interface",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Queue Interface",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Queue Interface is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Queue Interface to a junior developer?",
+            "Describe a scenario where you successfully implemented Queue Interface in a project.",
+            "What are the trade-offs or alternatives to using Queue Interface?"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Java Collections",
+        "topic": "Java Collections",
+        "subtopic": "PriorityQueue",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of PriorityQueue",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, PriorityQueue is a key indicator of your practical knowledge in Java Collections. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain PriorityQueue to a junior developer?",
+            "Describe a scenario where you successfully implemented PriorityQueue in a project.",
+            "What are the trade-offs or alternatives to using PriorityQueue?"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Thread Creation",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Thread Creation",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Thread Creation is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Thread Creation to a junior developer?",
+            "Describe a scenario where you successfully implemented Thread Creation in a project.",
+            "What are the trade-offs or alternatives to using Thread Creation?"
+        ]
+    },
+    {
+        "id": 26,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Thread Lifecycle",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Thread Lifecycle",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Thread Lifecycle is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Thread Lifecycle to a junior developer?",
+            "Describe a scenario where you successfully implemented Thread Lifecycle in a project.",
+            "What are the trade-offs or alternatives to using Thread Lifecycle?"
+        ]
+    },
+    {
+        "id": 27,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Synchronization",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Synchronization",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Synchronization is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Synchronization to a junior developer?",
+            "Describe a scenario where you successfully implemented Synchronization in a project.",
+            "What are the trade-offs or alternatives to using Synchronization?"
+        ]
+    },
+    {
+        "id": 28,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Volatile Keyword",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Volatile Keyword",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Volatile Keyword is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Volatile Keyword to a junior developer?",
+            "Describe a scenario where you successfully implemented Volatile Keyword in a project.",
+            "What are the trade-offs or alternatives to using Volatile Keyword?"
+        ]
+    },
+    {
+        "id": 29,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Wait & Notify",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Wait & Notify",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Wait & Notify is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Wait & Notify to a junior developer?",
+            "Describe a scenario where you successfully implemented Wait & Notify in a project.",
+            "What are the trade-offs or alternatives to using Wait & Notify?"
+        ]
+    },
+    {
+        "id": 30,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Deadlock",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Deadlock",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Deadlock is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Deadlock to a junior developer?",
+            "Describe a scenario where you successfully implemented Deadlock in a project.",
+            "What are the trade-offs or alternatives to using Deadlock?"
+        ]
+    },
+    {
+        "id": 31,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Callable & Future",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Callable & Future",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Callable & Future is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Callable & Future to a junior developer?",
+            "Describe a scenario where you successfully implemented Callable & Future in a project.",
+            "What are the trade-offs or alternatives to using Callable & Future?"
+        ]
+    },
+    {
+        "id": 32,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Executors Framework",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Executors Framework",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Executors Framework is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Executors Framework to a junior developer?",
+            "Describe a scenario where you successfully implemented Executors Framework in a project.",
+            "What are the trade-offs or alternatives to using Executors Framework?"
+        ]
+    },
+    {
+        "id": 33,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "ThreadLocal",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of ThreadLocal",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, ThreadLocal is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain ThreadLocal to a junior developer?",
+            "Describe a scenario where you successfully implemented ThreadLocal in a project.",
+            "What are the trade-offs or alternatives to using ThreadLocal?"
+        ]
+    },
+    {
+        "id": 34,
+        "category": "Multithreading",
+        "topic": "Multithreading",
+        "subtopic": "Concurrent Collections overview",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Concurrent Collections overview",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Concurrent Collections overview is a key indicator of your practical knowledge in Multithreading. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Concurrent Collections overview to a junior developer?",
+            "Describe a scenario where you successfully implemented Concurrent Collections overview in a project.",
+            "What are the trade-offs or alternatives to using Concurrent Collections overview?"
+        ]
+    },
+    {
+        "id": 35,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Lambda Expressions",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Lambda Expressions",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Lambda Expressions is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Lambda Expressions to a junior developer?",
+            "Describe a scenario where you successfully implemented Lambda Expressions in a project.",
+            "What are the trade-offs or alternatives to using Lambda Expressions?"
+        ]
+    },
+    {
+        "id": 36,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Functional Interfaces",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Functional Interfaces",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Functional Interfaces is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Functional Interfaces to a junior developer?",
+            "Describe a scenario where you successfully implemented Functional Interfaces in a project.",
+            "What are the trade-offs or alternatives to using Functional Interfaces?"
+        ]
+    },
+    {
+        "id": 37,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Streams API Filter",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Streams API Filter",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Streams API Filter is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Streams API Filter to a junior developer?",
+            "Describe a scenario where you successfully implemented Streams API Filter in a project.",
+            "What are the trade-offs or alternatives to using Streams API Filter?"
+        ]
+    },
+    {
+        "id": 38,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Streams API Map & Reduce",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Streams API Map & Reduce",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Streams API Map & Reduce is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Streams API Map & Reduce to a junior developer?",
+            "Describe a scenario where you successfully implemented Streams API Map & Reduce in a project.",
+            "What are the trade-offs or alternatives to using Streams API Map & Reduce?"
+        ]
+    },
+    {
+        "id": 39,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Optional Class",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Optional Class",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Optional Class is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Optional Class to a junior developer?",
+            "Describe a scenario where you successfully implemented Optional Class in a project.",
+            "What are the trade-offs or alternatives to using Optional Class?"
+        ]
+    },
+    {
+        "id": 40,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Method References",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Method References",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Method References is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Method References to a junior developer?",
+            "Describe a scenario where you successfully implemented Method References in a project.",
+            "What are the trade-offs or alternatives to using Method References?"
+        ]
+    },
+    {
+        "id": 41,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Default & Static Methods in Interfaces",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Default & Static Methods in Interfaces",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Default & Static Methods in Interfaces is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Default & Static Methods in Interfaces to a junior developer?",
+            "Describe a scenario where you successfully implemented Default & Static Methods in Interfaces in a project.",
+            "What are the trade-offs or alternatives to using Default & Static Methods in Interfaces?"
+        ]
+    },
+    {
+        "id": 42,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Date and Time API",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Date and Time API",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Date and Time API is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Date and Time API to a junior developer?",
+            "Describe a scenario where you successfully implemented Date and Time API in a project.",
+            "What are the trade-offs or alternatives to using Date and Time API?"
+        ]
+    },
+    {
+        "id": 43,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "CompletableFuture basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of CompletableFuture basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, CompletableFuture basics is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain CompletableFuture basics to a junior developer?",
+            "Describe a scenario where you successfully implemented CompletableFuture basics in a project.",
+            "What are the trade-offs or alternatives to using CompletableFuture basics?"
+        ]
+    },
+    {
+        "id": 44,
+        "category": "Java 8",
+        "topic": "Java 8",
+        "subtopic": "Spliterator",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Spliterator",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Spliterator is a key indicator of your practical knowledge in Java 8. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Spliterator to a junior developer?",
+            "Describe a scenario where you successfully implemented Spliterator in a project.",
+            "What are the trade-offs or alternatives to using Spliterator?"
+        ]
+    },
+    {
+        "id": 45,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Spring Core & IoC",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Spring Core & IoC",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Spring Core & IoC is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Spring Core & IoC to a junior developer?",
+            "Describe a scenario where you successfully implemented Spring Core & IoC in a project.",
+            "What are the trade-offs or alternatives to using Spring Core & IoC?"
+        ]
+    },
+    {
+        "id": 46,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Dependency Injection",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Dependency Injection",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Dependency Injection is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Dependency Injection to a junior developer?",
+            "Describe a scenario where you successfully implemented Dependency Injection in a project.",
+            "What are the trade-offs or alternatives to using Dependency Injection?"
+        ]
+    },
+    {
+        "id": 47,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Spring Boot Annotations",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Spring Boot Annotations",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Spring Boot Annotations is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Spring Boot Annotations to a junior developer?",
+            "Describe a scenario where you successfully implemented Spring Boot Annotations in a project.",
+            "What are the trade-offs or alternatives to using Spring Boot Annotations?"
+        ]
+    },
+    {
+        "id": 48,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Application Properties",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Application Properties",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Application Properties is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Application Properties to a junior developer?",
+            "Describe a scenario where you successfully implemented Application Properties in a project.",
+            "What are the trade-offs or alternatives to using Application Properties?"
+        ]
+    },
+    {
+        "id": 49,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Spring MVC Architecture",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Spring MVC Architecture",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Spring MVC Architecture is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Spring MVC Architecture to a junior developer?",
+            "Describe a scenario where you successfully implemented Spring MVC Architecture in a project.",
+            "What are the trade-offs or alternatives to using Spring MVC Architecture?"
+        ]
+    },
+    {
+        "id": 50,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Controllers & Routing",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Controllers & Routing",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Controllers & Routing is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Controllers & Routing to a junior developer?",
+            "Describe a scenario where you successfully implemented Controllers & Routing in a project.",
+            "What are the trade-offs or alternatives to using Controllers & Routing?"
+        ]
+    },
+    {
+        "id": 51,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Service & Repository Layers",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Service & Repository Layers",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Service & Repository Layers is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Service & Repository Layers to a junior developer?",
+            "Describe a scenario where you successfully implemented Service & Repository Layers in a project.",
+            "What are the trade-offs or alternatives to using Service & Repository Layers?"
+        ]
+    },
+    {
+        "id": 52,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Exception Handling (@ControllerAdvice)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Exception Handling (@ControllerAdvice)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Exception Handling (@ControllerAdvice) is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Exception Handling (@ControllerAdvice) to a junior developer?",
+            "Describe a scenario where you successfully implemented Exception Handling (@ControllerAdvice) in a project.",
+            "What are the trade-offs or alternatives to using Exception Handling (@ControllerAdvice)?"
+        ]
+    },
+    {
+        "id": 53,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Spring Boot Actuator",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Spring Boot Actuator",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Spring Boot Actuator is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Spring Boot Actuator to a junior developer?",
+            "Describe a scenario where you successfully implemented Spring Boot Actuator in a project.",
+            "What are the trade-offs or alternatives to using Spring Boot Actuator?"
+        ]
+    },
+    {
+        "id": 54,
+        "category": "Spring Boot",
+        "topic": "Spring Boot",
+        "subtopic": "Profiles",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Profiles",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Profiles is a key indicator of your practical knowledge in Spring Boot. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Profiles to a junior developer?",
+            "Describe a scenario where you successfully implemented Profiles in a project.",
+            "What are the trade-offs or alternatives to using Profiles?"
+        ]
+    },
+    {
+        "id": 55,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "Security Architecture",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Security Architecture",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Security Architecture is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Security Architecture to a junior developer?",
+            "Describe a scenario where you successfully implemented Security Architecture in a project.",
+            "What are the trade-offs or alternatives to using Security Architecture?"
+        ]
+    },
+    {
+        "id": 56,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "Authentication Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Authentication Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Authentication Basics is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Authentication Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented Authentication Basics in a project.",
+            "What are the trade-offs or alternatives to using Authentication Basics?"
+        ]
+    },
+    {
+        "id": 57,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "Authorization & Roles",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Authorization & Roles",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Authorization & Roles is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Authorization & Roles to a junior developer?",
+            "Describe a scenario where you successfully implemented Authorization & Roles in a project.",
+            "What are the trade-offs or alternatives to using Authorization & Roles?"
+        ]
+    },
+    {
+        "id": 58,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "JWT Concepts",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of JWT Concepts",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, JWT Concepts is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain JWT Concepts to a junior developer?",
+            "Describe a scenario where you successfully implemented JWT Concepts in a project.",
+            "What are the trade-offs or alternatives to using JWT Concepts?"
+        ]
+    },
+    {
+        "id": 59,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "Configuring SecurityFilterChain",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Configuring SecurityFilterChain",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Configuring SecurityFilterChain is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Configuring SecurityFilterChain to a junior developer?",
+            "Describe a scenario where you successfully implemented Configuring SecurityFilterChain in a project.",
+            "What are the trade-offs or alternatives to using Configuring SecurityFilterChain?"
+        ]
+    },
+    {
+        "id": 60,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "UserDetailsService",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of UserDetailsService",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, UserDetailsService is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain UserDetailsService to a junior developer?",
+            "Describe a scenario where you successfully implemented UserDetailsService in a project.",
+            "What are the trade-offs or alternatives to using UserDetailsService?"
+        ]
+    },
+    {
+        "id": 61,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "Password Encoding",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Password Encoding",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Password Encoding is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Password Encoding to a junior developer?",
+            "Describe a scenario where you successfully implemented Password Encoding in a project.",
+            "What are the trade-offs or alternatives to using Password Encoding?"
+        ]
+    },
+    {
+        "id": 62,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "Method Level Security",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Method Level Security",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Method Level Security is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Method Level Security to a junior developer?",
+            "Describe a scenario where you successfully implemented Method Level Security in a project.",
+            "What are the trade-offs or alternatives to using Method Level Security?"
+        ]
+    },
+    {
+        "id": 63,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "OAuth2 Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of OAuth2 Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, OAuth2 Basics is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain OAuth2 Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented OAuth2 Basics in a project.",
+            "What are the trade-offs or alternatives to using OAuth2 Basics?"
+        ]
+    },
+    {
+        "id": 64,
+        "category": "Spring Security",
+        "topic": "Spring Security",
+        "subtopic": "CORS & CSRF Filtering",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of CORS & CSRF Filtering",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, CORS & CSRF Filtering is a key indicator of your practical knowledge in Spring Security. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain CORS & CSRF Filtering to a junior developer?",
+            "Describe a scenario where you successfully implemented CORS & CSRF Filtering in a project.",
+            "What are the trade-offs or alternatives to using CORS & CSRF Filtering?"
+        ]
+    },
+    {
+        "id": 65,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "JPA vs Hibernate",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of JPA vs Hibernate",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, JPA vs Hibernate is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain JPA vs Hibernate to a junior developer?",
+            "Describe a scenario where you successfully implemented JPA vs Hibernate in a project.",
+            "What are the trade-offs or alternatives to using JPA vs Hibernate?"
+        ]
+    },
+    {
+        "id": 66,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "Entity Mapping",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Entity Mapping",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Entity Mapping is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Entity Mapping to a junior developer?",
+            "Describe a scenario where you successfully implemented Entity Mapping in a project.",
+            "What are the trade-offs or alternatives to using Entity Mapping?"
+        ]
+    },
+    {
+        "id": 67,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "Primary Key Generation",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Primary Key Generation",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Primary Key Generation is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Primary Key Generation to a junior developer?",
+            "Describe a scenario where you successfully implemented Primary Key Generation in a project.",
+            "What are the trade-offs or alternatives to using Primary Key Generation?"
+        ]
+    },
+    {
+        "id": 68,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "CRUD Operations",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of CRUD Operations",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, CRUD Operations is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain CRUD Operations to a junior developer?",
+            "Describe a scenario where you successfully implemented CRUD Operations in a project.",
+            "What are the trade-offs or alternatives to using CRUD Operations?"
+        ]
+    },
+    {
+        "id": 69,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "HQL (Hibernate Query Language)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of HQL (Hibernate Query Language)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, HQL (Hibernate Query Language) is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain HQL (Hibernate Query Language) to a junior developer?",
+            "Describe a scenario where you successfully implemented HQL (Hibernate Query Language) in a project.",
+            "What are the trade-offs or alternatives to using HQL (Hibernate Query Language)?"
+        ]
+    },
+    {
+        "id": 70,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "Criteria API",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Criteria API",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Criteria API is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Criteria API to a junior developer?",
+            "Describe a scenario where you successfully implemented Criteria API in a project.",
+            "What are the trade-offs or alternatives to using Criteria API?"
+        ]
+    },
+    {
+        "id": 71,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "One-to-One Mapping",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of One-to-One Mapping",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, One-to-One Mapping is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain One-to-One Mapping to a junior developer?",
+            "Describe a scenario where you successfully implemented One-to-One Mapping in a project.",
+            "What are the trade-offs or alternatives to using One-to-One Mapping?"
+        ]
+    },
+    {
+        "id": 72,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "One-to-Many Mapping",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of One-to-Many Mapping",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, One-to-Many Mapping is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain One-to-Many Mapping to a junior developer?",
+            "Describe a scenario where you successfully implemented One-to-Many Mapping in a project.",
+            "What are the trade-offs or alternatives to using One-to-Many Mapping?"
+        ]
+    },
+    {
+        "id": 73,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "Many-to-Many Mapping",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Many-to-Many Mapping",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Many-to-Many Mapping is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Many-to-Many Mapping to a junior developer?",
+            "Describe a scenario where you successfully implemented Many-to-Many Mapping in a project.",
+            "What are the trade-offs or alternatives to using Many-to-Many Mapping?"
+        ]
+    },
+    {
+        "id": 74,
+        "category": "Hibernate",
+        "topic": "Hibernate",
+        "subtopic": "Caching (L1 & L2)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Caching (L1 & L2)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Caching (L1 & L2) is a key indicator of your practical knowledge in Hibernate. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Caching (L1 & L2) to a junior developer?",
+            "Describe a scenario where you successfully implemented Caching (L1 & L2) in a project.",
+            "What are the trade-offs or alternatives to using Caching (L1 & L2)?"
+        ]
+    },
+    {
+        "id": 75,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "REST Principles",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of REST Principles",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, REST Principles is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain REST Principles to a junior developer?",
+            "Describe a scenario where you successfully implemented REST Principles in a project.",
+            "What are the trade-offs or alternatives to using REST Principles?"
+        ]
+    },
+    {
+        "id": 76,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "HTTP Methods",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of HTTP Methods",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, HTTP Methods is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain HTTP Methods to a junior developer?",
+            "Describe a scenario where you successfully implemented HTTP Methods in a project.",
+            "What are the trade-offs or alternatives to using HTTP Methods?"
+        ]
+    },
+    {
+        "id": 77,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "Status Codes",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Status Codes",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Status Codes is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Status Codes to a junior developer?",
+            "Describe a scenario where you successfully implemented Status Codes in a project.",
+            "What are the trade-offs or alternatives to using Status Codes?"
+        ]
+    },
+    {
+        "id": 78,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "Request & Response Payloads",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Request & Response Payloads",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Request & Response Payloads is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Request & Response Payloads to a junior developer?",
+            "Describe a scenario where you successfully implemented Request & Response Payloads in a project.",
+            "What are the trade-offs or alternatives to using Request & Response Payloads?"
+        ]
+    },
+    {
+        "id": 79,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "Content Negotiation",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Content Negotiation",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Content Negotiation is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Content Negotiation to a junior developer?",
+            "Describe a scenario where you successfully implemented Content Negotiation in a project.",
+            "What are the trade-offs or alternatives to using Content Negotiation?"
+        ]
+    },
+    {
+        "id": 80,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "Versioning APIs",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Versioning APIs",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Versioning APIs is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Versioning APIs to a junior developer?",
+            "Describe a scenario where you successfully implemented Versioning APIs in a project.",
+            "What are the trade-offs or alternatives to using Versioning APIs?"
+        ]
+    },
+    {
+        "id": 81,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "Pagination & Filtering",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Pagination & Filtering",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Pagination & Filtering is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Pagination & Filtering to a junior developer?",
+            "Describe a scenario where you successfully implemented Pagination & Filtering in a project.",
+            "What are the trade-offs or alternatives to using Pagination & Filtering?"
+        ]
+    },
+    {
+        "id": 82,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "HATEOAS",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of HATEOAS",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, HATEOAS is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain HATEOAS to a junior developer?",
+            "Describe a scenario where you successfully implemented HATEOAS in a project.",
+            "What are the trade-offs or alternatives to using HATEOAS?"
+        ]
+    },
+    {
+        "id": 83,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "Swagger / OpenAPI Documentation",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Swagger / OpenAPI Documentation",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Swagger / OpenAPI Documentation is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Swagger / OpenAPI Documentation to a junior developer?",
+            "Describe a scenario where you successfully implemented Swagger / OpenAPI Documentation in a project.",
+            "What are the trade-offs or alternatives to using Swagger / OpenAPI Documentation?"
+        ]
+    },
+    {
+        "id": 84,
+        "category": "REST APIs",
+        "topic": "REST APIs",
+        "subtopic": "API Security Best Practices",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of API Security Best Practices",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, API Security Best Practices is a key indicator of your practical knowledge in REST APIs. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain API Security Best Practices to a junior developer?",
+            "Describe a scenario where you successfully implemented API Security Best Practices in a project.",
+            "What are the trade-offs or alternatives to using API Security Best Practices?"
+        ]
+    },
+    {
+        "id": 85,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "Microservices vs Monolith",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Microservices vs Monolith",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Microservices vs Monolith is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Microservices vs Monolith to a junior developer?",
+            "Describe a scenario where you successfully implemented Microservices vs Monolith in a project.",
+            "What are the trade-offs or alternatives to using Microservices vs Monolith?"
+        ]
+    },
+    {
+        "id": 86,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "Service Discovery (Eureka)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Service Discovery (Eureka)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Service Discovery (Eureka) is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Service Discovery (Eureka) to a junior developer?",
+            "Describe a scenario where you successfully implemented Service Discovery (Eureka) in a project.",
+            "What are the trade-offs or alternatives to using Service Discovery (Eureka)?"
+        ]
+    },
+    {
+        "id": 87,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "API Gateway",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of API Gateway",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, API Gateway is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain API Gateway to a junior developer?",
+            "Describe a scenario where you successfully implemented API Gateway in a project.",
+            "What are the trade-offs or alternatives to using API Gateway?"
+        ]
+    },
+    {
+        "id": 88,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "Config Server",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Config Server",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Config Server is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Config Server to a junior developer?",
+            "Describe a scenario where you successfully implemented Config Server in a project.",
+            "What are the trade-offs or alternatives to using Config Server?"
+        ]
+    },
+    {
+        "id": 89,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "Circuit Breaker Pattern",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Circuit Breaker Pattern",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Circuit Breaker Pattern is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Circuit Breaker Pattern to a junior developer?",
+            "Describe a scenario where you successfully implemented Circuit Breaker Pattern in a project.",
+            "What are the trade-offs or alternatives to using Circuit Breaker Pattern?"
+        ]
+    },
+    {
+        "id": 90,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "Distributed Tracing",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Distributed Tracing",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Distributed Tracing is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Distributed Tracing to a junior developer?",
+            "Describe a scenario where you successfully implemented Distributed Tracing in a project.",
+            "What are the trade-offs or alternatives to using Distributed Tracing?"
+        ]
+    },
+    {
+        "id": 91,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "Event-Driven Architecture",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Event-Driven Architecture",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Event-Driven Architecture is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Event-Driven Architecture to a junior developer?",
+            "Describe a scenario where you successfully implemented Event-Driven Architecture in a project.",
+            "What are the trade-offs or alternatives to using Event-Driven Architecture?"
+        ]
+    },
+    {
+        "id": 92,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "Saga Pattern",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Saga Pattern",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Saga Pattern is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Saga Pattern to a junior developer?",
+            "Describe a scenario where you successfully implemented Saga Pattern in a project.",
+            "What are the trade-offs or alternatives to using Saga Pattern?"
+        ]
+    },
+    {
+        "id": 93,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "CQRS Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of CQRS Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, CQRS Basics is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain CQRS Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented CQRS Basics in a project.",
+            "What are the trade-offs or alternatives to using CQRS Basics?"
+        ]
+    },
+    {
+        "id": 94,
+        "category": "Microservices",
+        "topic": "Microservices",
+        "subtopic": "Centralized Logging",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Centralized Logging",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Centralized Logging is a key indicator of your practical knowledge in Microservices. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Centralized Logging to a junior developer?",
+            "Describe a scenario where you successfully implemented Centralized Logging in a project.",
+            "What are the trade-offs or alternatives to using Centralized Logging?"
+        ]
+    },
+    {
+        "id": 95,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Basic SELECTs & Filtering",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Basic SELECTs & Filtering",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Basic SELECTs & Filtering is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Basic SELECTs & Filtering to a junior developer?",
+            "Describe a scenario where you successfully implemented Basic SELECTs & Filtering in a project.",
+            "What are the trade-offs or alternatives to using Basic SELECTs & Filtering?"
+        ]
+    },
+    {
+        "id": 96,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "JOINs (Inner, Outer, Left, Right)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of JOINs (Inner, Outer, Left, Right)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, JOINs (Inner, Outer, Left, Right) is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain JOINs (Inner, Outer, Left, Right) to a junior developer?",
+            "Describe a scenario where you successfully implemented JOINs (Inner, Outer, Left, Right) in a project.",
+            "What are the trade-offs or alternatives to using JOINs (Inner, Outer, Left, Right)?"
+        ]
+    },
+    {
+        "id": 97,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Group By & Having",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Group By & Having",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Group By & Having is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Group By & Having to a junior developer?",
+            "Describe a scenario where you successfully implemented Group By & Having in a project.",
+            "What are the trade-offs or alternatives to using Group By & Having?"
+        ]
+    },
+    {
+        "id": 98,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Subqueries",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Subqueries",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Subqueries is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Subqueries to a junior developer?",
+            "Describe a scenario where you successfully implemented Subqueries in a project.",
+            "What are the trade-offs or alternatives to using Subqueries?"
+        ]
+    },
+    {
+        "id": 99,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Common Table Expressions (CTEs)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Common Table Expressions (CTEs)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Common Table Expressions (CTEs) is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Common Table Expressions (CTEs) to a junior developer?",
+            "Describe a scenario where you successfully implemented Common Table Expressions (CTEs) in a project.",
+            "What are the trade-offs or alternatives to using Common Table Expressions (CTEs)?"
+        ]
+    },
+    {
+        "id": 100,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Window Functions",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Window Functions",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Window Functions is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Window Functions to a junior developer?",
+            "Describe a scenario where you successfully implemented Window Functions in a project.",
+            "What are the trade-offs or alternatives to using Window Functions?"
+        ]
+    },
+    {
+        "id": 101,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Indexes",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Indexes",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Indexes is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Indexes to a junior developer?",
+            "Describe a scenario where you successfully implemented Indexes in a project.",
+            "What are the trade-offs or alternatives to using Indexes?"
+        ]
+    },
+    {
+        "id": 102,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Transactions & ACID Properties",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Transactions & ACID Properties",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Transactions & ACID Properties is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Transactions & ACID Properties to a junior developer?",
+            "Describe a scenario where you successfully implemented Transactions & ACID Properties in a project.",
+            "What are the trade-offs or alternatives to using Transactions & ACID Properties?"
+        ]
+    },
+    {
+        "id": 103,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Normalization Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Normalization Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Normalization Basics is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Normalization Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented Normalization Basics in a project.",
+            "What are the trade-offs or alternatives to using Normalization Basics?"
+        ]
+    },
+    {
+        "id": 104,
+        "category": "SQL",
+        "topic": "SQL",
+        "subtopic": "Stored Procedures Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Stored Procedures Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Stored Procedures Basics is a key indicator of your practical knowledge in SQL. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Stored Procedures Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented Stored Procedures Basics in a project.",
+            "What are the trade-offs or alternatives to using Stored Procedures Basics?"
+        ]
+    },
+    {
+        "id": 105,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "Client-Server Architecture",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Client-Server Architecture",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Client-Server Architecture is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Client-Server Architecture to a junior developer?",
+            "Describe a scenario where you successfully implemented Client-Server Architecture in a project.",
+            "What are the trade-offs or alternatives to using Client-Server Architecture?"
+        ]
+    },
+    {
+        "id": 106,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "Load Balancing",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Load Balancing",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Load Balancing is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Load Balancing to a junior developer?",
+            "Describe a scenario where you successfully implemented Load Balancing in a project.",
+            "What are the trade-offs or alternatives to using Load Balancing?"
+        ]
+    },
+    {
+        "id": 107,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "Caching Strategies",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Caching Strategies",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Caching Strategies is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Caching Strategies to a junior developer?",
+            "Describe a scenario where you successfully implemented Caching Strategies in a project.",
+            "What are the trade-offs or alternatives to using Caching Strategies?"
+        ]
+    },
+    {
+        "id": 108,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "Database Sharding & Replication",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Database Sharding & Replication",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Database Sharding & Replication is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Database Sharding & Replication to a junior developer?",
+            "Describe a scenario where you successfully implemented Database Sharding & Replication in a project.",
+            "What are the trade-offs or alternatives to using Database Sharding & Replication?"
+        ]
+    },
+    {
+        "id": 109,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "CAP Theorem",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of CAP Theorem",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, CAP Theorem is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain CAP Theorem to a junior developer?",
+            "Describe a scenario where you successfully implemented CAP Theorem in a project.",
+            "What are the trade-offs or alternatives to using CAP Theorem?"
+        ]
+    },
+    {
+        "id": 110,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "Message Queues",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Message Queues",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Message Queues is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Message Queues to a junior developer?",
+            "Describe a scenario where you successfully implemented Message Queues in a project.",
+            "What are the trade-offs or alternatives to using Message Queues?"
+        ]
+    },
+    {
+        "id": 111,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "Rate Limiting",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Rate Limiting",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Rate Limiting is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Rate Limiting to a junior developer?",
+            "Describe a scenario where you successfully implemented Rate Limiting in a project.",
+            "What are the trade-offs or alternatives to using Rate Limiting?"
+        ]
+    },
+    {
+        "id": 112,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "Consistent Hashing",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Consistent Hashing",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Consistent Hashing is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Consistent Hashing to a junior developer?",
+            "Describe a scenario where you successfully implemented Consistent Hashing in a project.",
+            "What are the trade-offs or alternatives to using Consistent Hashing?"
+        ]
+    },
+    {
+        "id": 113,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "CDN",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of CDN",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, CDN is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain CDN to a junior developer?",
+            "Describe a scenario where you successfully implemented CDN in a project.",
+            "What are the trade-offs or alternatives to using CDN?"
+        ]
+    },
+    {
+        "id": 114,
+        "category": "System Design",
+        "topic": "System Design",
+        "subtopic": "Designing URL Shortener",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Designing URL Shortener",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Designing URL Shortener is a key indicator of your practical knowledge in System Design. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Designing URL Shortener to a junior developer?",
+            "Describe a scenario where you successfully implemented Designing URL Shortener in a project.",
+            "What are the trade-offs or alternatives to using Designing URL Shortener?"
+        ]
+    },
+    {
+        "id": 115,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "JSX & Components",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of JSX & Components",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, JSX & Components is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain JSX & Components to a junior developer?",
+            "Describe a scenario where you successfully implemented JSX & Components in a project.",
+            "What are the trade-offs or alternatives to using JSX & Components?"
+        ]
+    },
+    {
+        "id": 116,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "Props & State",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Props & State",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Props & State is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Props & State to a junior developer?",
+            "Describe a scenario where you successfully implemented Props & State in a project.",
+            "What are the trade-offs or alternatives to using Props & State?"
+        ]
+    },
+    {
+        "id": 117,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "Component Lifecycle / Hooks Overview",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Component Lifecycle / Hooks Overview",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Component Lifecycle / Hooks Overview is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Component Lifecycle / Hooks Overview to a junior developer?",
+            "Describe a scenario where you successfully implemented Component Lifecycle / Hooks Overview in a project.",
+            "What are the trade-offs or alternatives to using Component Lifecycle / Hooks Overview?"
+        ]
+    },
+    {
+        "id": 118,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "useState & useEffect",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of useState & useEffect",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, useState & useEffect is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain useState & useEffect to a junior developer?",
+            "Describe a scenario where you successfully implemented useState & useEffect in a project.",
+            "What are the trade-offs or alternatives to using useState & useEffect?"
+        ]
+    },
+    {
+        "id": 119,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "React Router",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of React Router",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, React Router is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain React Router to a junior developer?",
+            "Describe a scenario where you successfully implemented React Router in a project.",
+            "What are the trade-offs or alternatives to using React Router?"
+        ]
+    },
+    {
+        "id": 120,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "Context API",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Context API",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Context API is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Context API to a junior developer?",
+            "Describe a scenario where you successfully implemented Context API in a project.",
+            "What are the trade-offs or alternatives to using Context API?"
+        ]
+    },
+    {
+        "id": 121,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "Handling Forms",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Handling Forms",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Handling Forms is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Handling Forms to a junior developer?",
+            "Describe a scenario where you successfully implemented Handling Forms in a project.",
+            "What are the trade-offs or alternatives to using Handling Forms?"
+        ]
+    },
+    {
+        "id": 122,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "useMemo & useCallback",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of useMemo & useCallback",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, useMemo & useCallback is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain useMemo & useCallback to a junior developer?",
+            "Describe a scenario where you successfully implemented useMemo & useCallback in a project.",
+            "What are the trade-offs or alternatives to using useMemo & useCallback?"
+        ]
+    },
+    {
+        "id": 123,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "Custom Hooks",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Custom Hooks",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Custom Hooks is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Custom Hooks to a junior developer?",
+            "Describe a scenario where you successfully implemented Custom Hooks in a project.",
+            "What are the trade-offs or alternatives to using Custom Hooks?"
+        ]
+    },
+    {
+        "id": 124,
+        "category": "React",
+        "topic": "React",
+        "subtopic": "State Management Libraries (Redux/Zustand)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of State Management Libraries (Redux/Zustand)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, State Management Libraries (Redux/Zustand) is a key indicator of your practical knowledge in React. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain State Management Libraries (Redux/Zustand) to a junior developer?",
+            "Describe a scenario where you successfully implemented State Management Libraries (Redux/Zustand) in a project.",
+            "What are the trade-offs or alternatives to using State Management Libraries (Redux/Zustand)?"
+        ]
+    },
+    {
+        "id": 125,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "SDLC & Agile",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of SDLC & Agile",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, SDLC & Agile is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain SDLC & Agile to a junior developer?",
+            "Describe a scenario where you successfully implemented SDLC & Agile in a project.",
+            "What are the trade-offs or alternatives to using SDLC & Agile?"
+        ]
+    },
+    {
+        "id": 126,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "CI/CD Pipeline Concepts",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of CI/CD Pipeline Concepts",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, CI/CD Pipeline Concepts is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain CI/CD Pipeline Concepts to a junior developer?",
+            "Describe a scenario where you successfully implemented CI/CD Pipeline Concepts in a project.",
+            "What are the trade-offs or alternatives to using CI/CD Pipeline Concepts?"
+        ]
+    },
+    {
+        "id": 127,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "Git Branching Strategies",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Git Branching Strategies",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Git Branching Strategies is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Git Branching Strategies to a junior developer?",
+            "Describe a scenario where you successfully implemented Git Branching Strategies in a project.",
+            "What are the trade-offs or alternatives to using Git Branching Strategies?"
+        ]
+    },
+    {
+        "id": 128,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "Linux Basics & Shell Scripting",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Linux Basics & Shell Scripting",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Linux Basics & Shell Scripting is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Linux Basics & Shell Scripting to a junior developer?",
+            "Describe a scenario where you successfully implemented Linux Basics & Shell Scripting in a project.",
+            "What are the trade-offs or alternatives to using Linux Basics & Shell Scripting?"
+        ]
+    },
+    {
+        "id": 129,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "Nginx/Apache Routing",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Nginx/Apache Routing",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Nginx/Apache Routing is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Nginx/Apache Routing to a junior developer?",
+            "Describe a scenario where you successfully implemented Nginx/Apache Routing in a project.",
+            "What are the trade-offs or alternatives to using Nginx/Apache Routing?"
+        ]
+    },
+    {
+        "id": 130,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "Monitoring tools (Prometheus/Grafana)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Monitoring tools (Prometheus/Grafana)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Monitoring tools (Prometheus/Grafana) is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Monitoring tools (Prometheus/Grafana) to a junior developer?",
+            "Describe a scenario where you successfully implemented Monitoring tools (Prometheus/Grafana) in a project.",
+            "What are the trade-offs or alternatives to using Monitoring tools (Prometheus/Grafana)?"
+        ]
+    },
+    {
+        "id": 131,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "Log Management (ELK)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Log Management (ELK)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Log Management (ELK) is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Log Management (ELK) to a junior developer?",
+            "Describe a scenario where you successfully implemented Log Management (ELK) in a project.",
+            "What are the trade-offs or alternatives to using Log Management (ELK)?"
+        ]
+    },
+    {
+        "id": 132,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "Infrastructure as Code (Terraform)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Infrastructure as Code (Terraform)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Infrastructure as Code (Terraform) is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Infrastructure as Code (Terraform) to a junior developer?",
+            "Describe a scenario where you successfully implemented Infrastructure as Code (Terraform) in a project.",
+            "What are the trade-offs or alternatives to using Infrastructure as Code (Terraform)?"
+        ]
+    },
+    {
+        "id": 133,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "Ansible Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Ansible Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Ansible Basics is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Ansible Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented Ansible Basics in a project.",
+            "What are the trade-offs or alternatives to using Ansible Basics?"
+        ]
+    },
+    {
+        "id": 134,
+        "category": "DevOps",
+        "topic": "DevOps",
+        "subtopic": "Security Scanning Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Security Scanning Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Security Scanning Basics is a key indicator of your practical knowledge in DevOps. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Security Scanning Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented Security Scanning Basics in a project.",
+            "What are the trade-offs or alternatives to using Security Scanning Basics?"
+        ]
+    },
+    {
+        "id": 135,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Containers vs VMs",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Containers vs VMs",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Containers vs VMs is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Containers vs VMs to a junior developer?",
+            "Describe a scenario where you successfully implemented Containers vs VMs in a project.",
+            "What are the trade-offs or alternatives to using Containers vs VMs?"
+        ]
+    },
+    {
+        "id": 136,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Docker Architecture",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Docker Architecture",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Docker Architecture is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Docker Architecture to a junior developer?",
+            "Describe a scenario where you successfully implemented Docker Architecture in a project.",
+            "What are the trade-offs or alternatives to using Docker Architecture?"
+        ]
+    },
+    {
+        "id": 137,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Writing Dockerfiles",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Writing Dockerfiles",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Writing Dockerfiles is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Writing Dockerfiles to a junior developer?",
+            "Describe a scenario where you successfully implemented Writing Dockerfiles in a project.",
+            "What are the trade-offs or alternatives to using Writing Dockerfiles?"
+        ]
+    },
+    {
+        "id": 138,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Docker Images & Registries",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Docker Images & Registries",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Docker Images & Registries is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Docker Images & Registries to a junior developer?",
+            "Describe a scenario where you successfully implemented Docker Images & Registries in a project.",
+            "What are the trade-offs or alternatives to using Docker Images & Registries?"
+        ]
+    },
+    {
+        "id": 139,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Docker Networking",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Docker Networking",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Docker Networking is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Docker Networking to a junior developer?",
+            "Describe a scenario where you successfully implemented Docker Networking in a project.",
+            "What are the trade-offs or alternatives to using Docker Networking?"
+        ]
+    },
+    {
+        "id": 140,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Docker Volumes",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Docker Volumes",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Docker Volumes is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Docker Volumes to a junior developer?",
+            "Describe a scenario where you successfully implemented Docker Volumes in a project.",
+            "What are the trade-offs or alternatives to using Docker Volumes?"
+        ]
+    },
+    {
+        "id": 141,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Docker Compose",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Docker Compose",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Docker Compose is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Docker Compose to a junior developer?",
+            "Describe a scenario where you successfully implemented Docker Compose in a project.",
+            "What are the trade-offs or alternatives to using Docker Compose?"
+        ]
+    },
+    {
+        "id": 142,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Multi-Stage Builds",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Multi-Stage Builds",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Multi-Stage Builds is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Multi-Stage Builds to a junior developer?",
+            "Describe a scenario where you successfully implemented Multi-Stage Builds in a project.",
+            "What are the trade-offs or alternatives to using Multi-Stage Builds?"
+        ]
+    },
+    {
+        "id": 143,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Dockerizing a Spring Boot App",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Dockerizing a Spring Boot App",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Dockerizing a Spring Boot App is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Dockerizing a Spring Boot App to a junior developer?",
+            "Describe a scenario where you successfully implemented Dockerizing a Spring Boot App in a project.",
+            "What are the trade-offs or alternatives to using Dockerizing a Spring Boot App?"
+        ]
+    },
+    {
+        "id": 144,
+        "category": "Docker",
+        "topic": "Docker",
+        "subtopic": "Dockerizing a React App",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Dockerizing a React App",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Dockerizing a React App is a key indicator of your practical knowledge in Docker. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Dockerizing a React App to a junior developer?",
+            "Describe a scenario where you successfully implemented Dockerizing a React App in a project.",
+            "What are the trade-offs or alternatives to using Dockerizing a React App?"
+        ]
+    },
+    {
+        "id": 145,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "K8s Architecture",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of K8s Architecture",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, K8s Architecture is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain K8s Architecture to a junior developer?",
+            "Describe a scenario where you successfully implemented K8s Architecture in a project.",
+            "What are the trade-offs or alternatives to using K8s Architecture?"
+        ]
+    },
+    {
+        "id": 146,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "Pods & Nodes",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Pods & Nodes",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Pods & Nodes is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Pods & Nodes to a junior developer?",
+            "Describe a scenario where you successfully implemented Pods & Nodes in a project.",
+            "What are the trade-offs or alternatives to using Pods & Nodes?"
+        ]
+    },
+    {
+        "id": 147,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "Deployments & ReplicaSets",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Deployments & ReplicaSets",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Deployments & ReplicaSets is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Deployments & ReplicaSets to a junior developer?",
+            "Describe a scenario where you successfully implemented Deployments & ReplicaSets in a project.",
+            "What are the trade-offs or alternatives to using Deployments & ReplicaSets?"
+        ]
+    },
+    {
+        "id": 148,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "Services (ClusterIP, NodePort, LoadBalancer)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Services (ClusterIP, NodePort, LoadBalancer)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Services (ClusterIP, NodePort, LoadBalancer) is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Services (ClusterIP, NodePort, LoadBalancer) to a junior developer?",
+            "Describe a scenario where you successfully implemented Services (ClusterIP, NodePort, LoadBalancer) in a project.",
+            "What are the trade-offs or alternatives to using Services (ClusterIP, NodePort, LoadBalancer)?"
+        ]
+    },
+    {
+        "id": 149,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "ConfigMaps & Secrets",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of ConfigMaps & Secrets",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, ConfigMaps & Secrets is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain ConfigMaps & Secrets to a junior developer?",
+            "Describe a scenario where you successfully implemented ConfigMaps & Secrets in a project.",
+            "What are the trade-offs or alternatives to using ConfigMaps & Secrets?"
+        ]
+    },
+    {
+        "id": 150,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "Ingress Controllers",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Ingress Controllers",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Ingress Controllers is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Ingress Controllers to a junior developer?",
+            "Describe a scenario where you successfully implemented Ingress Controllers in a project.",
+            "What are the trade-offs or alternatives to using Ingress Controllers?"
+        ]
+    },
+    {
+        "id": 151,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "Persistent Volumes",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Persistent Volumes",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Persistent Volumes is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Persistent Volumes to a junior developer?",
+            "Describe a scenario where you successfully implemented Persistent Volumes in a project.",
+            "What are the trade-offs or alternatives to using Persistent Volumes?"
+        ]
+    },
+    {
+        "id": 152,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "StatefulSets",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of StatefulSets",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, StatefulSets is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain StatefulSets to a junior developer?",
+            "Describe a scenario where you successfully implemented StatefulSets in a project.",
+            "What are the trade-offs or alternatives to using StatefulSets?"
+        ]
+    },
+    {
+        "id": 153,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "Helm Charts basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Helm Charts basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Helm Charts basics is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Helm Charts basics to a junior developer?",
+            "Describe a scenario where you successfully implemented Helm Charts basics in a project.",
+            "What are the trade-offs or alternatives to using Helm Charts basics?"
+        ]
+    },
+    {
+        "id": 154,
+        "category": "Kubernetes",
+        "topic": "Kubernetes",
+        "subtopic": "K8s Namespaces",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of K8s Namespaces",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, K8s Namespaces is a key indicator of your practical knowledge in Kubernetes. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain K8s Namespaces to a junior developer?",
+            "Describe a scenario where you successfully implemented K8s Namespaces in a project.",
+            "What are the trade-offs or alternatives to using K8s Namespaces?"
+        ]
+    },
+    {
+        "id": 155,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "IAM (Users, Roles, Policies)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of IAM (Users, Roles, Policies)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, IAM (Users, Roles, Policies) is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain IAM (Users, Roles, Policies) to a junior developer?",
+            "Describe a scenario where you successfully implemented IAM (Users, Roles, Policies) in a project.",
+            "What are the trade-offs or alternatives to using IAM (Users, Roles, Policies)?"
+        ]
+    },
+    {
+        "id": 156,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "EC2 Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of EC2 Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, EC2 Basics is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain EC2 Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented EC2 Basics in a project.",
+            "What are the trade-offs or alternatives to using EC2 Basics?"
+        ]
+    },
+    {
+        "id": 157,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "S3 Storage",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of S3 Storage",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, S3 Storage is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain S3 Storage to a junior developer?",
+            "Describe a scenario where you successfully implemented S3 Storage in a project.",
+            "What are the trade-offs or alternatives to using S3 Storage?"
+        ]
+    },
+    {
+        "id": 158,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "VPC & Subnets",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of VPC & Subnets",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, VPC & Subnets is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain VPC & Subnets to a junior developer?",
+            "Describe a scenario where you successfully implemented VPC & Subnets in a project.",
+            "What are the trade-offs or alternatives to using VPC & Subnets?"
+        ]
+    },
+    {
+        "id": 159,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "RDS (Relational Database Service)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of RDS (Relational Database Service)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, RDS (Relational Database Service) is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain RDS (Relational Database Service) to a junior developer?",
+            "Describe a scenario where you successfully implemented RDS (Relational Database Service) in a project.",
+            "What are the trade-offs or alternatives to using RDS (Relational Database Service)?"
+        ]
+    },
+    {
+        "id": 160,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "DynamoDB (NoSQL)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of DynamoDB (NoSQL)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, DynamoDB (NoSQL) is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain DynamoDB (NoSQL) to a junior developer?",
+            "Describe a scenario where you successfully implemented DynamoDB (NoSQL) in a project.",
+            "What are the trade-offs or alternatives to using DynamoDB (NoSQL)?"
+        ]
+    },
+    {
+        "id": 161,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "Lambda (Serverless)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Lambda (Serverless)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Lambda (Serverless) is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Lambda (Serverless) to a junior developer?",
+            "Describe a scenario where you successfully implemented Lambda (Serverless) in a project.",
+            "What are the trade-offs or alternatives to using Lambda (Serverless)?"
+        ]
+    },
+    {
+        "id": 162,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "API Gateway",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of API Gateway",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, API Gateway is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain API Gateway to a junior developer?",
+            "Describe a scenario where you successfully implemented API Gateway in a project.",
+            "What are the trade-offs or alternatives to using API Gateway?"
+        ]
+    },
+    {
+        "id": 163,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "Elastic Beanstalk",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Elastic Beanstalk",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Elastic Beanstalk is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Elastic Beanstalk to a junior developer?",
+            "Describe a scenario where you successfully implemented Elastic Beanstalk in a project.",
+            "What are the trade-offs or alternatives to using Elastic Beanstalk?"
+        ]
+    },
+    {
+        "id": 164,
+        "category": "AWS",
+        "topic": "AWS",
+        "subtopic": "CloudWatch",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of CloudWatch",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, CloudWatch is a key indicator of your practical knowledge in AWS. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain CloudWatch to a junior developer?",
+            "Describe a scenario where you successfully implemented CloudWatch in a project.",
+            "What are the trade-offs or alternatives to using CloudWatch?"
+        ]
+    },
+    {
+        "id": 165,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Big O Notation",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Big O Notation",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Big O Notation is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Big O Notation to a junior developer?",
+            "Describe a scenario where you successfully implemented Big O Notation in a project.",
+            "What are the trade-offs or alternatives to using Big O Notation?"
+        ]
+    },
+    {
+        "id": 166,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Arrays & Strings Applications",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Arrays & Strings Applications",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Arrays & Strings Applications is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Arrays & Strings Applications to a junior developer?",
+            "Describe a scenario where you successfully implemented Arrays & Strings Applications in a project.",
+            "What are the trade-offs or alternatives to using Arrays & Strings Applications?"
+        ]
+    },
+    {
+        "id": 167,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Linked Lists (Singly/Doubly)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Linked Lists (Singly/Doubly)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Linked Lists (Singly/Doubly) is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Linked Lists (Singly/Doubly) to a junior developer?",
+            "Describe a scenario where you successfully implemented Linked Lists (Singly/Doubly) in a project.",
+            "What are the trade-offs or alternatives to using Linked Lists (Singly/Doubly)?"
+        ]
+    },
+    {
+        "id": 168,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Stacks & Queues",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Stacks & Queues",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Stacks & Queues is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Stacks & Queues to a junior developer?",
+            "Describe a scenario where you successfully implemented Stacks & Queues in a project.",
+            "What are the trade-offs or alternatives to using Stacks & Queues?"
+        ]
+    },
+    {
+        "id": 169,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Trees (Binary, BST)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Trees (Binary, BST)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Trees (Binary, BST) is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Trees (Binary, BST) to a junior developer?",
+            "Describe a scenario where you successfully implemented Trees (Binary, BST) in a project.",
+            "What are the trade-offs or alternatives to using Trees (Binary, BST)?"
+        ]
+    },
+    {
+        "id": 170,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Graphs (BFS/DFS)",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Graphs (BFS/DFS)",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Graphs (BFS/DFS) is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Graphs (BFS/DFS) to a junior developer?",
+            "Describe a scenario where you successfully implemented Graphs (BFS/DFS) in a project.",
+            "What are the trade-offs or alternatives to using Graphs (BFS/DFS)?"
+        ]
+    },
+    {
+        "id": 171,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Sorting Algorithms",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Sorting Algorithms",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Sorting Algorithms is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Sorting Algorithms to a junior developer?",
+            "Describe a scenario where you successfully implemented Sorting Algorithms in a project.",
+            "What are the trade-offs or alternatives to using Sorting Algorithms?"
+        ]
+    },
+    {
+        "id": 172,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Searching Algorithms",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Searching Algorithms",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Searching Algorithms is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Searching Algorithms to a junior developer?",
+            "Describe a scenario where you successfully implemented Searching Algorithms in a project.",
+            "What are the trade-offs or alternatives to using Searching Algorithms?"
+        ]
+    },
+    {
+        "id": 173,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Dynamic Programming Basics",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Dynamic Programming Basics",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Dynamic Programming Basics is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Dynamic Programming Basics to a junior developer?",
+            "Describe a scenario where you successfully implemented Dynamic Programming Basics in a project.",
+            "What are the trade-offs or alternatives to using Dynamic Programming Basics?"
+        ]
+    },
+    {
+        "id": 174,
+        "category": "DSA",
+        "topic": "DSA",
+        "subtopic": "Greedy Algorithms",
+        "completed": false,
+        "difficulty": "medium",
+        "estimated_hours": 2,
+        "notes": "",
+        "last_updated": "",
+        "subpoints": [
+            "Core concepts and fundamentals of Greedy Algorithms",
+            "Practical application and common use cases",
+            "Best practices and common pitfalls to avoid"
+        ],
+        "interview_explanation": "In technical interviews, Greedy Algorithms is a key indicator of your practical knowledge in DSA. Interviewers look for your ability to explain what it is, when to use it, and its underlying mechanics rather than just memorized definitions.",
+        "interview_questions": [
+            "How would you explain Greedy Algorithms to a junior developer?",
+            "Describe a scenario where you successfully implemented Greedy Algorithms in a project.",
+            "What are the trade-offs or alternatives to using Greedy Algorithms?"
+        ]
+    }
+]
